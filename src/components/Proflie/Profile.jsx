@@ -11,7 +11,7 @@ const Profile = () => {
                 <div className={styles.Profile_con}>
                     <div className={styles.Profile_info}>
                         <p className={styles.text_1}>Hello, its' me</p>
-                        <h3 className={styles.text_2}>asdasdasdasdasdasdasds</h3>
+                        <h3 className={styles.text_2}>Sirapob ThongTham</h3>
                         <p className={styles.text_3}>
                             <TypeAnimation
                                 sequence={[
