@@ -1,0 +1,33 @@
+.Experience_con {
+    text-align: center;
+    overflow: hidden;
+
+    & .Experience_title {
+        margin-top: 60px;
+        font-size: 32px;
+        font-weight: bold;
+    }
+
+    & .text_1 {
+        margin-top: 60px;
+    }
+
+    & .img {
+        margin-top: 20px;
+        border-radius: 20px;
+        height: 100%;
+        object-fit: cover;
+    }
+
+}
+
+@media screen and (max-width: 480px) {
+    .Experience_con {
+        height: auto;
+    }
+
+    & img {
+        width: 100%;
+        padding: 10px;
+    }
+}
