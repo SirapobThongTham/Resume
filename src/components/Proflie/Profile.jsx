@@ -35,7 +35,7 @@ const Profile = () => {
                     </div>
                     <div>
                         <Tilt scale={1.1} transitionSpeed={2500} tiltReverse={true}>
-                            <img src="src\Photo\0308   01_0.jpg" alt="" className={styles.Profile_img} />
+                            <div className={styles.Profile_img}></div>
                         </Tilt>
                     </div>
                 </div>
