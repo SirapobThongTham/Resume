@@ -11,7 +11,7 @@ const Profile = () => {
             <div className={styles.container}>
                 <div className={styles.Profile_con}>
                     <div className={styles.Profile_info}>
-                        <p className={styles.text_1}>Hello, it's me</p>
+                        <p className={styles.text_1}>Hello, It's me</p>
                         <h3 className={styles.text_2}>Sirapob ThongTham</h3>
                         <p className={styles.text_3}>
                             <TypeAnimation
