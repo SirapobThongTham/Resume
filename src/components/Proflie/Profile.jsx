@@ -3,7 +3,7 @@ import styles from './Profile.module.css'
 import { FaGithub, FaLinkedinIn, FaFacebookF } from "react-icons/fa6";
 import { TypeAnimation } from 'react-type-animation';
 import Tilt from 'react-parallax-tilt';
-import Photo from '/src/Photo/0308   01_0.jpg';
+import Photo from '/src/Photo/0308   02_0.jpg';
 
 const Profile = () => {
     return (
