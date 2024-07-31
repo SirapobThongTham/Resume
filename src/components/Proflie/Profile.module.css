@@ -44,6 +44,7 @@
             background-size: cover;
             background-position: center;
             margin-right: 120px;
+            object-fit: cover;
         }
     
         & .Profile_social {
